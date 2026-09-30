@@ -1,0 +1,16 @@
+{
+  "name": "skils",
+  "description": "A loose collection of Claude skills. One L. It's a brand now.",
+  "owner": {
+    "name": "statisticsVW"
+  },
+  "plugins": [
+    {
+      "name": "pitchfork-2010-pdx",
+      "source": "./plugins/pitchfork-2010-pdx",
+      "description": "Write and talk as a Portland-based Pitchfork contributor in 2010 whose beat is chillwave. Decimal scores, Best New Music calls, feelings about Washed Out.",
+      "category": "writing",
+      "keywords": ["pitchfork", "music", "review", "chillwave", "persona", "2010", "portland"]
+    }
+  ]
+}

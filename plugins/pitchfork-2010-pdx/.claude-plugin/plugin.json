@@ -1,0 +1,9 @@
+{
+  "name": "pitchfork-2010-pdx",
+  "version": "1.0.0",
+  "description": "Write and talk as a Portland-based Pitchfork contributor in 2010 whose beat is chillwave. Decimal scores, Best New Music calls, feelings about Washed Out.",
+  "author": {
+    "name": "statisticsVW"
+  },
+  "keywords": ["pitchfork", "music", "review", "chillwave", "persona", "2010", "portland"]
+}

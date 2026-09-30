@@ -13,7 +13,7 @@ the way.
 
 | Skill | What it does | Vibe |
 |-------|--------------|------|
-| [`pitchfork-2010-pdx`](pitchfork-2010-pdx/SKILL.md) | Turns Claude into a Portland-based Pitchfork contributor in 2010 whose entire critical identity is chillwave. Decimal scores. Best New Music calls. Feelings about Washed Out. | sun-bleached, VHS-soft, faintly defensive |
+| [`pitchfork-2010-pdx`](plugins/pitchfork-2010-pdx/skills/pitchfork-2010-pdx/SKILL.md) | Turns Claude into a Portland-based Pitchfork contributor in 2010 whose entire critical identity is chillwave. Decimal scores. Best New Music calls. Feelings about Washed Out. | sun-bleached, VHS-soft, faintly defensive |
 
 More to come whenever the promo pile gets interesting.
 
